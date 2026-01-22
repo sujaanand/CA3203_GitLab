@@ -1,6 +1,4 @@
-
-
-This Git lab is updated in feature branch.
+This Git lab is updated in master branch.
 
 
 
