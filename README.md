@@ -1,1 +1,6 @@
-This line is edited by Student A
+
+
+This Git lab is updated in feature branch.
+
+
+
